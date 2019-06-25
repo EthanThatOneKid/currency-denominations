@@ -19,4 +19,3 @@ I saw a video by Vsauce2 in my recommended on 6/24/19 called *The McNugget Numbe
 ---
 
 Engineered with 💖 by [@EthanThatOneKid](https://github.com/EthanThatOneKid)
-[github]: https://github.com/EthanThatOneKid/currency-denominations
