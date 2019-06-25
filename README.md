@@ -3,6 +3,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/EthanThatOneKid/currency-denominations.svg?style=social&label=Fork)](https://github.com/EthanThatOneKid/currency-denominations/fork)
 ![GitHub stars](https://img.shields.io/github/forks/EthanThatOneKid/currency-denominations.svg?style=social&label=Star)
 
+![Demo](demo.gif)
+
 > an interactive currency denominations playground. visit the site [here](https://ethanthatonekid.github.io/currency-denominations/)
 
 ## 🙋‍ What's *this*?
